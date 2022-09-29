@@ -1,0 +1,15 @@
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\bin\Debug\net6.0\Task_C#.exe
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\bin\Debug\net6.0\Task_C#.deps.json
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\bin\Debug\net6.0\Task_C#.runtimeconfig.json
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\bin\Debug\net6.0\Task_C#.dll
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\bin\Debug\net6.0\Task_C#.pdb
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.csproj.AssemblyReference.cache
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.AssemblyInfoInputs.cache
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.AssemblyInfo.cs
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.dll
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\refint\Task_C#.dll
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.pdb
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\Task_C#.genruntimeconfig.cache
+C:\Users\Oleg\Desktop\C_Shurp\Final_Test_GeekBrains\Task_C#\obj\Debug\net6.0\ref\Task_C#.dll
